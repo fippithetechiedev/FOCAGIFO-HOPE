@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>989213975471-rf9u637k7mctr60fj5gq5gqmj2j630mt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.989213975471-rf9u637k7mctr60fj5gq5gqmj2j630mt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2x3Cc77PIYLSGIfWugD-Z9YEY8bkYjvY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>989213975471</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Philip.FOCAGIFO</string>
+	<key>PROJECT_ID</key>
+	<string>focagifo-a163b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>focagifo-a163b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:989213975471:ios:2d5d246fc03d44f3</string>
+	<key>DATABASE_URL</key>
+	<string>https://focagifo-a163b.firebaseio.com</string>
+</dict>
+</plist>
